@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?pause=1500&color=780000&lines=I'm+Asura+a+Full+Stack+Developer;Just+a+Newbe+Learning+Development"
+    width="500"/>
+</p>
+<!-- HTML -->
+<div align ="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 
 <!--
 **iiiggoo/iiiggoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
